@@ -5,8 +5,8 @@ plugins {
 
 node {
 	download = true
-        version = "18.3.0"  
-        npmVersion = "8.11.0"
+        version = "10.15.2"  
+        npmVersion = "6.4.1"
 }
 
 //declare a build task
